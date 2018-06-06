@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Mobile Consulting</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Mobile Consulting</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Welcome</string>
+    <string name="about_me_fragment">About me</string>
+    <string name="service_fragment">Services</string>
+
+    <string name="name_service_consulting">Consulting</string>
+    <string name="name_service_support">Support</string>
+    <string name="name_service_training">Training</string>
+
+    <string name="description_service_consulting">Mobile Consulting architects its solutions to be self-sufficient from the ground up. With over 600 live apps, over 250 implementations, and over 7,000 trained and certified designers, developers, and managers, our expert enterprise mobile application consulting team members are standing by to help you realize your mobility goals.</string>
+    <string name="description_service_support">When you’ve got questions, we’ve got answers. Mobile Consulting’s support services cover mobile applications, hosting, and platform, with staff available 24 hours a day, 7 days a week for critical issues. The Mobil Consulting support team can identify your problem and come up with a solution – quickly, efficiently, and cost effectively.</string>
+    <string name="description_service_training">Keep up with mobility’s ever-changing landscape of technology, requirements, and use cases with Mobile Consulting’s comprehensive training curriculum. Designed to implement and extend the benefits of Mobile Consulting’s platform and enterprise mobile applications, the training curriculum offers classroom, self-paced, and online courses.</string>
+
+    <string name="brand_service_consulting">Customers who have received the service: BCP, Interbank</string>
+    <string name="brand_service_support">Customers who have received the service: La Positiva, Pacífico</string>
+    <string name="brand_service_training">Customers who have received the service: IBM, Avantica, Everis</string>
+
+    <string name="title_activity_icon">Service</string>
+    <string name="title_activity_about_me">About Me</string>
+    <string name="title_activity_services">Services</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_welcome">Welcome to Mobile Consulting!</string>
+    <string name="about_me_description">With the most innovative technology in the industry, we create exceptional user experiences that engage customers on any platform. Our expertise in all things digital ensures our customers evolve their businesses to win today and keep moving forward for tomorrow.
+    The blitz of digital technology today is inescapable. With Mobil Conulting, we don’t just help our customers keep up with the frenetic pace of digital. You can count on our experience and expertise in the digital space to help you excel at digital and stay ahead.
+    Consulting services, support and training are all keys to a rewarding, long-term relationship with your digital partner. You’ve got it all with Mobile Consulting.</string>
+</resources>
